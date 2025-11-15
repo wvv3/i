@@ -1,0 +1,2 @@
+{ "线路二次截取": "<ul class=\"nav nav-tabs ff-playurl-tab&&</ul>", "线路数组": "href=\"\\#playlist&&</a>>[替换:线路1>>恒轩️]", 
+ "线路标题": "data-toggle=\"tab\"&&</li>[不包含:线路2#线路3#线路4#线路5#线路6#线路7]","播放数组": "<ul class=\"list-unstyled row text-center tab-pane ff-playurl active fade in ff-playurl-tab-1\"&&</ul>", "播放标题": ">&&</a>", "分类url": "http://www.nanxiaoba.com/type/{cateId}-{class}-{area}-{year}---addtime-{catePg}.html", "分类": "最新电影$1#连续剧$2#综艺$4#动漫$3#短剧$5$#午夜电影$6", "地区": "大陆$大陆#香港$香港#台湾$台湾#美国$美国#法国$法国#英国$英国#日本$日本#韩国$韩国#德国$德国#泰国$泰国#印度$印度#意大利$意大利#西班牙$西班牙#加拿大$加拿大" }
